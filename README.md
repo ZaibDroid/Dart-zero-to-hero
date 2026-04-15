@@ -1,4 +1,6 @@
-# 🎯 Dart Enough
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+
+# Dart-zero-to-hero
 
 ### Complete Dart Roadmap — From Zero to Flutter Ready
 
@@ -7,13 +9,13 @@
 [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
 [![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge)]()
 
-*A clean, beginner-friendly Dart repository covering every concept you need before building real Flutter apps.*
+*A beginner-friendly Dart repository covering every concept you need before building real Flutter apps.*
 
 ---
 
 ## 📖 About
 
-This repository is a structured Dart learning journey — written with simple explanations, commented code, and real practice programs. Each topic lives in its own file so you can learn one concept at a time, at your own pace.
+This repository is a structured Dart learning journey written with simple explanations, commented code, and real practice programs. Each topic lives in its own file so you can learn one concept at a time, at your own pace.
 
 > **Goal →** Master Dart thoroughly, then build Flutter apps with full confidence 💪
 
@@ -22,7 +24,7 @@ This repository is a structured Dart learning journey — written with simple ex
 ## 🗺️ Learning Roadmap
 
 ```
-Dart Enough
+Dart-zero-to-hero
 │
 ├── 01 › Basics              main(), print(), comments
 ├── 02 › Variables           Data types, var, dynamic, const
@@ -82,11 +84,11 @@ dart_enough/
 
 ## ✨ What Makes This Repo Different
 
-- 🧠 **Plain English comments** — every concept explained in simple words
-- 🎯 **One topic per file** — no confusion, clean separation
-- 💡 **Real practice programs** — table printer, factorial, fibonacci, DMC calculator
-- 📈 **Logical order** — each topic builds on the previous one
-- 🚀 **Flutter-focused** — everything here is used in real Flutter apps
+- 🧠 Every concept explained in simple words
+- 🎯 No confusion, clean separation
+- 💡 Real practice programs
+- 📈 Logical order means each topic builds on the previous one
+- 🚀 Everything here is used in real Flutter apps
 
 ---
 
@@ -95,7 +97,7 @@ dart_enough/
 Once you finish this repo, you are ready for:
 
 ```
-Dart Enough  ✅
+Dart-zero-to-hero 
      │
      ▼
   Flutter UI  →  Widgets, Layouts, Navigation
@@ -109,8 +111,6 @@ Dart Enough  ✅
      ▼
   🚀 Publish Your App on Play Store / App Store
 ```
-
----
 
 ---
 
