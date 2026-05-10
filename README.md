@@ -1,9 +1,5 @@
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-
 # Dart-zero-to-hero
-
 ### Complete Dart Roadmap — From Zero to Flutter Ready
-
 [![Dart](https://img.shields.io/badge/Dart-3.x-0175C2?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev)
 [![Flutter](https://img.shields.io/badge/Flutter-Ready-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev)
 [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
@@ -33,7 +29,10 @@ Dart-zero-to-hero
 ├── 05 › Decision Making     if, switch, ternary operator
 ├── 06 › Loops               for, while, do-while
 ├── 07 › List & Map          Data structures & operations
-└── 08 › Functions           Definition, calling, return, named params
+├── 08 › Functions           Definition, calling, return, named params
+├── 09 › OOP Basics          Class, Object, Constructor, this keyword
+├── 10 › Inheritance         extends, super, Method Overriding
+└── 11 › Polymorphism        Abstract class, Abstract method
 ```
 
 ---
@@ -50,6 +49,9 @@ Dart-zero-to-hero
 | `06` | **Loops** | `for` · `for-in` · `while` · `do-while` · factorial · fibonacci |
 | `07` | **List & Map** | Traversal · Insertion · Deletion · List of Maps |
 | `08` | **Functions** | `void` · return types · named params · fat arrow `=>` |
+| `09` | **OOP Basics** | Class · Object · Constructor · `this` keyword · Positional & Named params |
+| `10` | **Inheritance** | `extends` · `super` · Method Overriding · `@override` · Composition |
+| `11` | **Polymorphism** | Abstract class · Abstract method · parent variable holds child object |
 
 ---
 
@@ -76,8 +78,15 @@ dart_enough/
     │   └── loops.dart
     ├── 📁 07_list_map/
     │   └── list_map.dart
-    └── 📁 08_functions/
-        └── functions.dart
+    ├── 📁 08_functions/
+    │   └── functions.dart
+    ├── 📁 09_oop_basics/
+    │   ├── oop_basics.dart
+    │   └── constructor_this_keyword.dart
+    ├── 📁 10_inheritance/
+    │   └── inheritance.dart
+    └── 📁 11_polymorphism/
+        └── polymorphism.dart
 ```
 
 ---
